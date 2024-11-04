@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    /* background-color: #000000; */
+    color: #ffffff;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    padding: 10px;
+    background-color: #000000;
+    
+}
+
+header section {
+    text-align: center;
+    /* padding: 50px; */
+    background-color: #000000;
+    
+    
+}
+
+header  img {
+    width: 1260px;
+    height: 630px;
+}
+
+.ig1 .parrafo {
+    /* width: 100%; */
+    margin: auto;
+    padding: 20px;
+    background-color: #000000;
+    
+}
+
+.imgtx img {
+    width: 399px;
+    height: 237px;
+    margin-left: 25%;
+}
+
+.parrafo .texto {  
+    width: 32%;
+    margin-left: 20%;
+    
+    
+    
+}
+
+.parrafo .texto, .imgtx  {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.texto p {
+    font-size: 17px;
+    font-weight: 300;  
+    display: block;
+    text-decoration: none;
+    
+    
+}
+
+.cafe {
+    padding: 60px;
+    background-color:#1e1a13;
+    
+}
+
+.cafe h2 {
+    font-size: 40px;
+    font-weight: 300;
+    padding-bottom: 100px;
+    
+    
+}
+
+/* .cafe .textos3 {
+    background-color: #1e1a13;
+} */
+
+/* .textos3 .to, .paz, .cc {
+    background-color: #1e1a13;
+    display: inline-block;
+    font-size: 15px;
+    margin-right: 240px; 
+} */
+
+.cafe .texto01 {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+.texto01 .iconos, p {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.cafe h2, .iconos {
+    background-color: #1e1a13;
+    text-align: center;
+}
+
+.cafe .iconos {
+    background-color: #1e1a13;
+    font-size: 49px;
+    text-align: center;
+    margin-left: 200px;
+    
+}
+
+.cafe .icono1, .icono2, .icono3 {
+    display: inline-block;
+    background-color: #1e1a13;
+    color: #1e1a13;
+    margin-right: 100px;
+
+}
+
+.cafe .icono3 {
+    margin-left: 110px;
+    
+}
+
+.cafe .icono1 {
+    margin-right: 200px;
+}
+
+.img3 {
+    text-align: center;
+    background-color: #000000;
+    
+    
+}
+
+.img3 .divimg3, img {
+    width: 300px;
+    height: 190px;
+    display: inline-block;
+    padding: 6px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+footer {
+    background-color: #000000;
+    padding-bottom: 30px;
+}
+
+footer div {
+    background-color: #1e1a13;
+    padding: 40px;
+}
+
+footer h2 {
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
